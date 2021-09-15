@@ -1,0 +1,94 @@
+{
+  "name": "emrMob",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/async-storage": "^1.8.1",
+    "@react-native-community/datetimepicker": "^3.5.2",
+    "@react-native-community/masked-view": "^0.1.10",
+    "@react-native-community/netinfo": "^5.9.6",
+    "@react-native-community/progress-bar-android": "^1.0.4",
+    "@react-native-community/progress-view": "^1.2.3",
+    "@react-native-community/push-notification-ios": "^1.9.0",
+    "@react-native-community/slider": "^2.0.8",
+    "@react-native-community/toolbar-android": "^0.1.0-rc.2",
+    "@react-navigation/bottom-tabs": "^5.1.0",
+    "@react-navigation/native": "^5.0.7",
+    "@react-navigation/stack": "^5.1.0",
+    "axios": "^0.19.2",
+    "moment": "^2.27.0",
+    "react": "16.9.0",
+    "react-devtools": "^3.6.3",
+    "react-native": "^0.61.5",
+    "react-native-action-button": "^2.8.5",
+    "react-native-animatable": "^1.3.3",
+    "react-native-chart-kit": "^5.4.0",
+    "react-native-circular-progress": "^1.3.6",
+    "react-native-cn-richtext-editor": "^1.0.42",
+    "react-native-confirmation-code-field": "5",
+    "react-native-elements": "^1.2.7",
+    "react-native-fs": "^2.16.6",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-i18n": "^2.0.15",
+    "react-native-image-zoom-viewer": "^2.2.27",
+    "react-native-infinite-scrolling": "^2.0.0",
+    "react-native-loading-spinner-overlay": "^1.1.0",
+    "react-native-material-dropdown": "^0.11.1",
+    "react-native-modal": "^12.1.0",
+    "react-native-pdf": "^6.2.2",
+    "react-native-push-notification": "^7.3.1",
+    "react-native-reanimated": "^1.8.0",
+    "react-native-root-toast": "^3.2.1",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.7.0",
+    "react-native-select-contact": "^1.5.0",
+    "react-native-select-two": "^1.1.0",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-sqlite-2": "^3.4.0",
+    "react-native-sqlite-storage": "^5.0.0",
+    "react-native-svg": "^11.0.1",
+    "react-native-swipe-list-view": "^3.2.5",
+    "react-native-tab-view": "^2.14.2",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-webview": "^9.4.0",
+    "react-redux": "^7.2.0",
+    "reanimated-bottom-sheet": "^1.0.0-alpha.22",
+    "redux": "^4.0.5",
+    "redux-thunk": "^2.3.0",
+    "rn-fetch-blob": "^0.12.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/runtime": "^7.8.4",
+    "@react-native-community/eslint-config": "^0.0.7",
+    "babel-jest": "^25.1.0",
+    "eslint": "^6.8.0",
+    "husky": "^4.3.0",
+    "jest": "^25.1.0",
+    "lint-staged": "^10.3.0",
+    "metro-react-native-babel-preset": "^0.58.0",
+    "prettier": "^2.1.1",
+    "react-native-svg-transformer": "^0.14.3",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npx lint-staged"
+    }
+  },
+  "lint-staged": {
+    "src/**/*.{js,jsx,ts,tsx,json,css,scss,md}": [
+      "prettier --write"
+    ]
+  }
+}

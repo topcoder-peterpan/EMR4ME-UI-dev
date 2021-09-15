@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="156.381" viewBox="0 0 142 156.381">
+  <g id="Group_11454" data-name="Group 11454" transform="translate(-117 -115.505)">
+    <ellipse id="Ellipse_36" data-name="Ellipse 36" cx="46.28" cy="5.121" rx="46.28" ry="5.121" transform="translate(138.6 261.645)" fill="#d3d3d3" opacity="0.22"/>
+    <g id="Group_3387" data-name="Group 3387" transform="translate(200.505 -15932.495)">
+      <circle id="Ellipse_64" data-name="Ellipse 64" cx="71" cy="71" r="71" transform="translate(-83.505 16048.495)" fill="#eee"/>
+      <g id="Group_3383" data-name="Group 3383" transform="translate(-12.752 16048)">
+        <g id="Group_3385" data-name="Group 3385">
+          <path id="Path_11480" data-name="Path 11480" d="M256,64V206.5c41.561,0,71.248-31.9,71.248-71.248S297.561,64,256,64Z" transform="translate(-256 -64)" fill="#d4d4d4"/>
+        </g>
+      </g>
+      <g id="hospital" transform="translate(-53.505 16078.495)">
+        <path id="Path_11477" data-name="Path 11477" d="M53.387,81.271h-25.5A2.381,2.381,0,0,1,25.5,78.89V55.768H2.381A2.381,2.381,0,0,1,0,53.387v-25.5A2.381,2.381,0,0,1,2.381,25.5H25.5V2.381A2.381,2.381,0,0,1,27.884,0h25.5a2.381,2.381,0,0,1,2.381,2.381V25.5H78.89a2.381,2.381,0,0,1,2.381,2.381v25.5a2.381,2.381,0,0,1-2.381,2.381H55.768V78.89A2.381,2.381,0,0,1,53.387,81.271Z" fill="#ff4a31"/>
+        <path id="Path_11478" data-name="Path 11478" d="M268.751,81.271a2.381,2.381,0,0,0,2.381-2.381V55.768h23.122a2.381,2.381,0,0,0,2.381-2.381v-25.5a2.381,2.381,0,0,0-2.381-2.381H271.132V2.381A2.381,2.381,0,0,0,268.751,0H256V81.271Z" transform="translate(-215.364)" fill="#e5432c"/>
+      </g>
+    </g>
+  </g>
+</svg>

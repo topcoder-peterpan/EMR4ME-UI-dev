@@ -1,0 +1,12 @@
+export const allergies="allergies"
+export const condition="conditions"
+export const Immunization="immunizations"
+export const medication="medications"
+export const visit="visits"
+export const LabResults="results"
+export const Notes="notes"
+export const Doctor="Doctor"
+export const Organization="Organization"
+export const documents = "documents"
+export const RecordsHome = "RecordsHome"
+

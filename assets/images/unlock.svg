@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92.56" height="124.885" viewBox="0 0 92.56 124.885">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="SVGID" d="M473.161,242.047v22.646a35.929,35.929,0,0,1-35.929,35.93h0a35.93,35.93,0,0,1-35.93-35.93V242.047a2.839,2.839,0,0,1,2.839-2.839h1.349V217.374a31.752,31.752,0,1,1,63.485,1.121V224.5h-10.9v-7.127a20.844,20.844,0,1,0-41.688,0v21.833h53.935A2.838,2.838,0,0,1,473.161,242.047Zm-15.085-11.608h10.9v-3.193h-10.9Z" transform="translate(-401.301 -185.631)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_487" data-name="Group 487" transform="translate(-141.6 -137.679)">
+    <ellipse id="Ellipse_36" data-name="Ellipse 36" cx="46.28" cy="5.121" rx="46.28" ry="5.121" transform="translate(141.6 252.323)" fill="#d3d3d3" opacity="0.22"/>
+    <g id="Group_484" data-name="Group 484" transform="translate(-249.376 -47.953)">
+      <g id="Group_481" data-name="Group 481" transform="translate(405.489 185.632)">
+        <rect id="Rectangle_145" data-name="Rectangle 145" width="6.568" height="3.248" transform="translate(54.752 38.701)" fill="#94ddff"/>
+        <rect id="Rectangle_146" data-name="Rectangle 146" width="10.898" height="3.171" transform="translate(52.587 41.614)" fill="#fefeff"/>
+        <path id="Path_355" data-name="Path 355" d="M457.251,224.5h10.9v-7.128a31.742,31.742,0,0,0-63.485,0v24.863h10.9V217.374a20.844,20.844,0,1,1,41.688,0Z" transform="translate(-404.664 -185.632)" fill="#1eb5fc"/>
+      </g>
+      <path id="Path_356" data-name="Path 356" d="M437.231,290.073h0a35.93,35.93,0,0,1-35.93-35.93V232.387a3.729,3.729,0,0,1,3.729-3.729h64.4a3.729,3.729,0,0,1,3.729,3.729v21.756A35.929,35.929,0,0,1,437.231,290.073Z" transform="translate(0 10.55)" fill="#ff4a31"/>
+      <path id="Path_357" data-name="Path 357" d="M439.425,248.237a7.744,7.744,0,1,0-11.472,6.748v9.065a3.729,3.729,0,0,0,7.457,0v-9.065A7.708,7.708,0,0,0,439.425,248.237Z" transform="translate(5.55 13.451)" fill="#301300" opacity="0.85" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <g id="Group_483" data-name="Group 483" transform="translate(401.301 185.631)">
+        <g id="Group_482" data-name="Group 482" clip-path="url(#clip-path)">
+          <rect id="Rectangle_147" data-name="Rectangle 147" width="35.93" height="61.415" transform="translate(35.931 53.576)" opacity="0.1" style="mix-blend-mode: multiply;isolation: isolate"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
